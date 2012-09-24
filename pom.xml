@@ -12,6 +12,7 @@
     <version>0.0.15</version>
     <packaging>hpi</packaging>
 
+    <!--hi there-->
     <scm>
       <connection>scm:git:git://github.com/masterthought/jenkins-cucumber-jvm-reports-plugin-java.git</connection>
       <developerConnection>scm:git:git@github.com:masterthought/jenkins-cucumber-jvm-reports-plugin-java.git</developerConnection>
